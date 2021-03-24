@@ -25,6 +25,29 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" : "Nutty Nonsense",
+      "calories" : 400,
+      "type" : "nutella ice cream",
+      "ingredients" : [
+        "peanuts",
+        "nestle crunch",
+        "raspberry sauce",
+        "nutella sauce"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Odd Oreo",
+      "calories" : 400,
+      "type" : "ice cream",
+      "ingredients" : [
+        "oreo crumbs",
+        "chocolate sauce",
+        "mint leaves"
+      ],
+      "image" : "ice-cream-xrta2.svg"
     }
   ]
 }
